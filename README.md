@@ -1,8 +1,8 @@
 <!-- 
-This document is a copy of the README file on the Microsoft/vcpkg-docs repository.
+This document is a copy of the README file on the Unity-Billal-mesloub/vcpkg-docs repository.
 
 To make changes modify this file instead:
-https://github.com/microsoft/vcpkg-docs/blob/main/vcpkg/readme/vcpkg-README.md
+https://github.com/Unity-Billal-mesloub/vcpkg-docs/blob/main/vcpkg/readme/vcpkg-README.md
 -->
 
 [🌐 Read in a different language](https://learn.microsoft.com/locale/?target=https%3A%2F%2Flearn.microsoft.com%2Fvcpkg%2F)
@@ -102,27 +102,20 @@ FAQ][contributing:coc-faq] or email
 [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional
 questions or comments.
  
-[contributing:submit-issue]: https://github.com/microsoft/vcpkg/issues/new/choose
-[contributing:submit-pr]: https://github.com/microsoft/vcpkg/pulls
+[contributing:submit-issue]: https://github.com/Unity-Billal-mesloub/vcpkg/issues/new/choose
+[contributing:submit-pr]: https://github.com/Unity-Billal-mesloub/vcpkg/pulls
 [contributing:coc]: https://opensource.microsoft.com/codeofconduct/
 [contributing:coc-faq]: https://opensource.microsoft.com/codeofconduct/
   
 # Resources
 
-* Ports: [Microsoft/vcpkg](<https://github.com/microsoft/vcpkg>)
-* Source code: [Microsoft/vcpkg-tool](<https://github.com/microsoft/vcpkg-tool>)
+* Ports: [Microsoft/vcpkg](<https://github.com/Unity-Billal-mesloub/vcpkg>)
+* Source code: [Microsoft/vcpkg-tool](<https://github.com/Unity-Billal-mesloub/vcpkg-tool>)
 * Docs: [Microsoft Learn | vcpkg](https://learn.microsoft.com/vcpkg)
 * Website: [vcpkg.io](<https://vcpkg.io>)
 * Email: [vcpkg@microsoft.com](<mailto:vcpkg@microsoft.com>)
 * Discord: [\#include \<C++\>'s Discord server](<https://www.includecpp.org>), in the #🌏vcpkg channel
 * Slack: [C++ Alliance's Slack server](<https://cppalliance.org/slack/>), in the #vcpkg channel
-
-# License
-
-The code in this repository is licensed under the MIT License. The libraries
-provided by ports are licensed under the terms of their original authors. Where
-available, vcpkg places the associated license(s) in the location
-[`installed/<triplet>/share/<port>/copyright`](https://learn.microsoft.com/vcpkg/contributing/maintainer-guide#install-copyright-file).
 
 # Security
 
